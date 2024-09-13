@@ -35,7 +35,7 @@
 	"dependencies": {
 		"axios": "^0.24.0",
 		"chalk": "^4.1.2",
-		"chokidar": "^3.5.2",
+		"chokidar": "^4.0.0",
 		"commander": "^8.3.0",
 		"cp-file": "^9.1.0",
 		"cross-spawn": "^7.0.3",
